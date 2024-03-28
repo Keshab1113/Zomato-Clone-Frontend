@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .buOgMD{
+        @apply inline-block w-[0.3rem] h-[0.3rem] bg-[rgb(130,130,130)] rounded-[50%] mr-[0.5rem] mb-[0.35rem] ml-[1rem]
+    }
+}
